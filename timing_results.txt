@@ -1,0 +1,9 @@
+Wave Simulation Timing Results
+===============================
+Points: 10240
+Time steps: 20000
+Initialization time: 0.000784 seconds
+Sequential time: 1.351784 seconds
+AVX time: 0.825074 seconds
+Speedup: 1.638379
+Efficiency: 20.479738 %.
